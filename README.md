@@ -2,7 +2,7 @@
 <h4 align="center">A passionate developer from México</h4>
 
 # 💫 About Me:
-👨🏻‍💻 A little about me...<br>HI, I´m Erick Peña! I'm a 8rd year ISI student at Anáhuac University. I am a Tech Enthusiast, looking forward to learn new skills and always keep improving.
+👨🏻‍💻 A little about me...<br>HI, I'am a systems engineer, dedicated to frontend development. I am a Tech Enthusiast, looking forward to learn new skills and always keep improving.
 
 
 ## 🌐 Socials:
