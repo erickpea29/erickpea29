@@ -18,16 +18,6 @@
 ## 🚀 About Me
 
 I'm a **Systems Engineer** passionate about frontend development and emerging technologies. I specialize in building exceptional user experiences and I'm always eager to learn new skills and continuously improve my craft.
-```javascript
-const erick = {
-    location: "México 🇲🇽",
-    role: "Frontend Developer",
-    education: "Systems Engineering",
-    currentFocus: "Building intuitive and efficient interfaces",
-    mindset: "Always learning, always growing",
-    funFact: "I believe the best way to predict the future is to build it"
-};
-```
 
 - 🌍 Based in México
 - 💼 Specialized in Frontend Development
@@ -38,57 +28,16 @@ const erick = {
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frontend Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### 🔙 Backend & Runtime
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔧 APIs & Tools
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Erickpea29&theme=gotham&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=Erickpea29&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+| 🔥 Streak | 📊 Stats |
+|---|---|
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=Erickpea29&theme=gotham&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=Erickpea29&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) |
 
 </div>
+
 
 ---
 
@@ -99,16 +48,6 @@ const erick = {
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about React, JavaScript, TypeScript, or Frontend Development
 - ⚡ Fun fact: I turn coffee into code ☕➡️💻
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
