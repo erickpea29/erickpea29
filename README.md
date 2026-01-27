@@ -11,8 +11,6 @@
   <a href="https://twitter.com/erick_pv"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Erickpea29&icon=2&color=6)
-
 </div>
 
 ---
@@ -84,10 +82,11 @@ const erick = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickpea29&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickpea29&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erickpea29&theme=gotham&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Erickpea29&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>  
 
 </div>
 
