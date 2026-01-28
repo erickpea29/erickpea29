@@ -62,20 +62,7 @@ I'm always interested in hearing about new projects and opportunities. Feel free
 
 </div>
 
----
 
-## ☕ Support My Work
-
-If you like what I do and want to support me, you can buy me a coffee! Every contribution helps me continue creating awesome projects.
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/erickpea29)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erickpea29)
-
-</div>
-
----
 
 <div align="center">
   
